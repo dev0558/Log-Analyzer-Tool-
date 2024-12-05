@@ -37,3 +37,20 @@ The Log Analyzer Tool automates the process of analyzing server logs to detect p
   ```bash
   pip install matplotlib
 
+
+## How to Run
+Steps to clone the repo:
+    :
+    git clone https://github.com/dev0558/LogAnalyzer.git
+  Change directory
+  cd LogAnalyzer
+Run 
+python log_analyzer_gui.py
+
+  ##Testing and Results
+- output
+    Test logs provided as sample_logs.txt.
+    Suspicious activity report saved as suspicious_activity_report.txt.
+    Visualization saved as suspicious_activity_graph.png.
+    
+
