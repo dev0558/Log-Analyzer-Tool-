@@ -5,6 +5,7 @@
 The Log Analyzer Tool automates the process of analyzing server logs to detect potential security threats. It identifies suspicious IPs based on failed login attempts and provides:
 - Detailed reports of suspicious activity.
 - Visualizations for easier interpretation.
+- Please read my report and also inspect my code to understand the tool in details
 
 ## Features
 
