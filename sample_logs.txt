@@ -1,0 +1,19 @@
+Dec 04 10:00:12 server sshd[10234]: Failed password for invalid user admin from 192.168.1.1 port 22 ssh2
+Dec 04 10:01:15 server sshd[10235]: Failed password for user root from 192.168.1.2 port 22 ssh2
+Dec 04 10:02:45 server sshd[10236]: Failed password for invalid user test from 192.168.1.3 port 22 ssh2
+Dec 04 10:03:20 server sshd[10237]: Accepted password for user john from 192.168.1.4 port 22 ssh2
+Dec 04 10:04:05 server sshd[10238]: Failed password for user guest from 192.168.1.5 port 22 ssh2
+Dec 04 10:05:50 server sshd[10239]: Failed password for invalid user admin from 192.168.1.6 port 22 ssh2
+Dec 04 10:06:30 server sshd[10240]: Failed password for user root from 192.168.1.7 port 22 ssh2
+Dec 04 10:07:40 server sshd[10241]: Failed password for user jane from 192.168.1.8 port 22 ssh2
+Dec 04 10:08:45 server sshd[10242]: Accepted password for user mark from 192.168.1.9 port 22 ssh2
+Dec 04 10:00:12 server sshd[10234]: Failed password for invalid user admin from 192.168.1.1 port 22 ssh2
+Dec 04 10:01:15 server sshd[10235]: Failed password for user root from 192.168.1.2 port 22 ssh2
+Dec 04 10:02:45 server sshd[10236]: Failed password for invalid user test from 192.168.1.3 port 22 ssh2
+Dec 04 10:03:20 server sshd[10237]: Accepted password for user john from 192.168.1.4 port 22 ssh2
+Dec 04 10:04:05 server sshd[10238]: Failed password for user guest from 192.168.1.5 port 22 ssh2
+Dec 04 10:05:50 server sshd[10239]: Failed password for invalid user admin from 192.168.1.6 port 22 ssh2
+Dec 04 10:06:30 server sshd[10240]: Failed password for user root from 192.168.1.7 port 22 ssh2
+Dec 04 10:07:40 server sshd[10241]: Failed password for user jane from 192.168.1.8 port 22 ssh2
+Dec 04 10:08:45 server sshd[10242]: Accepted password for user mark from 192.168.1.9 port 22 ssh2
+Dec 04 10:09:30 server sshd[10243]: Failed password for invalid user test from 192.168.1.10 port 22 ssh2
