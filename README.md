@@ -1,4 +1,4 @@
-# Log Analyzer Tool
+# Automated Log Analyzer Tool
 
 ## Overview
 
@@ -6,7 +6,8 @@ The Log Analyzer Tool automates the process of analyzing server logs to detect p
 - Detailed reports of suspicious activity.
 - Visualizations for easier interpretation.
 - Please read my report and also inspect my code to understand the tool in details
-
+  - https://youtu.be/_cYnZaMLaac
+  - Check out this video demonstration of the tool
 ## Features
 
 - **Interactive GUI**: User-friendly interface to select and analyze log files.
